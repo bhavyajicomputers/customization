@@ -1,0 +1,10 @@
+[
+  {
+    "doctype": "Scheduled Job Type",
+    "job_name": "checkin_report_daily_945",
+    "method": "customization.scripts.checkin_report.execute",
+    "frequency": "Cron",
+    "cron_format": "45 9 * * *",
+    "enabled": 1
+  }
+]
